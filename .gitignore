@@ -1,0 +1,5 @@
+# Configuration locale (peut contenir des secrets)
+config/application.env
+
+# Journaux
+*.log

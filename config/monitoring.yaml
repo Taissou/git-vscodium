@@ -1,0 +1,12 @@
+# Configuration de supervision fictive d'InfraLab
+application: infralab
+environment: formation
+check_interval_seconds: 60
+alert_email: exploitation@example.invalid
+services:
+  - name: portail
+    port: 8080
+  - name: base-demo
+    port: 5432
+  - name: sauvegarde
+    port: 9000
