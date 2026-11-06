@@ -16,3 +16,5 @@
 ## Vérification
 
 Le script doit afficher « Statut global : OK ».
+
+Modification du procedure d'installation
