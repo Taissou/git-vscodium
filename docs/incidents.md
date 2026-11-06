@@ -1,5 +1,8 @@
 # Gestion des incidents (procédure fictive)
 
+
+# ajout JMA ce 20261106
+
 ## Niveaux de gravité
 
 | Niveau | Description | Délai de prise en charge |
