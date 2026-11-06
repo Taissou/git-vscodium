@@ -19,4 +19,4 @@ Le script doit afficher « Statut global : OK ».
 balblabla
 
 
-nnnnn
+nnnnn,,,,
