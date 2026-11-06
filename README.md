@@ -40,5 +40,5 @@ bash scripts/backup.sh
 ## Informations
 
 - Responsable : à renseigner
-- Version : 0.1.0
+- Version : 0.1.1
 - Statut : application fictive, usage pédagogique uniquement
