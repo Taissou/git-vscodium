@@ -45,3 +45,5 @@ bash scripts/backup.sh
 - Responsable : à renseigner
 - Version : 0.1.0
 - Statut : application fictive, usage pédagogique uniquement
+
+Salut les amis
